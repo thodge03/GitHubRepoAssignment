@@ -14,3 +14,5 @@ C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignme
 C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignment>git commit -m "added readme.md file"
 C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignment>git remote add origin https://github.com/thodge03/GitHubRepoAssignment
 C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignment>git push -u origin master
+
+making a change to test
