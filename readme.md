@@ -1,0 +1,1 @@
+This folder was created to work with GitHub and the repository by the same name.

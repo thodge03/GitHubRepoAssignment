@@ -1,0 +1,16 @@
+C:\Users\thodge03>cd Desktop\DojoAssignments\WebFundamentals\Git
+C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git>md GitHubRepoAssignment
+C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git>cd GitHubRepoAssignment
+
+C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignment>git init
+
+C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignment>copy NUL readme.md
+
+C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignment>notepad readme.md
+
+C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignment>git status
+
+C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignment>git add readme.md
+C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignment>git commit -m "added readme.md file"
+C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignment>git remote add origin https://github.com/thodge03/GitHubRepoAssignment
+C:\Users\thodge03\Desktop\DojoAssignments\WebFundamentals\Git\GitHubRepoAssignment>git push -u origin master
